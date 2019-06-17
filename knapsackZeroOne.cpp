@@ -20,6 +20,7 @@ int knapsack(int profit[],int weight[],int item,int wt)
 
 int main()
 {
+	//Here everything is predefined and inputs are fixed
 	int weight[]={2,7,3,4};
 	int profit[]={5,20,20,10};
 	int wt;
